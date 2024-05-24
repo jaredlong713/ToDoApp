@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jalong2\\OneDrive - New Balance Athletics, Inc\\Desktop\\ToDoApp\\ToDoAppApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EECD07B-36EA-4D65-8C23-A68AB82BDEF2}|ToDoAppApi.csproj|c:\\users\\jalong2\\onedrive - new balance athletics, inc\\desktop\\todoapp\\todoappapi\\services\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EECD07B-36EA-4D65-8C23-A68AB82BDEF2}|ToDoAppApi.csproj|solutionrelative:services\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EECD07B-36EA-4D65-8C23-A68AB82BDEF2}|ToDoAppApi.csproj|c:\\users\\jalong2\\onedrive - new balance athletics, inc\\desktop\\todoapp\\todoappapi\\services\\itodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EECD07B-36EA-4D65-8C23-A68AB82BDEF2}|ToDoAppApi.csproj|solutionrelative:services\\itodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EECD07B-36EA-4D65-8C23-A68AB82BDEF2}|ToDoAppApi.csproj|c:\\users\\jalong2\\onedrive - new balance athletics, inc\\desktop\\todoapp\\todoappapi\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EECD07B-36EA-4D65-8C23-A68AB82BDEF2}|ToDoAppApi.csproj|solutionrelative:controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 227,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ToDoController.cs",
+              "DocumentMoniker": "C:\\Users\\jalong2\\OneDrive - New Balance Athletics, Inc\\Desktop\\ToDoApp\\ToDoAppApi\\Controllers\\ToDoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ToDoController.cs",
+              "ToolTip": "C:\\Users\\jalong2\\OneDrive - New Balance Athletics, Inc\\Desktop\\ToDoApp\\ToDoAppApi\\Controllers\\ToDoController.cs",
+              "RelativeToolTip": "Controllers\\ToDoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T02:48:03.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ToDoService.cs",
+              "DocumentMoniker": "C:\\Users\\jalong2\\OneDrive - New Balance Athletics, Inc\\Desktop\\ToDoApp\\ToDoAppApi\\Services\\ToDoService.cs",
+              "RelativeDocumentMoniker": "Services\\ToDoService.cs",
+              "ToolTip": "C:\\Users\\jalong2\\OneDrive - New Balance Athletics, Inc\\Desktop\\ToDoApp\\ToDoAppApi\\Services\\ToDoService.cs",
+              "RelativeToolTip": "Services\\ToDoService.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA1wAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T02:39:12.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IToDoService.cs",
+              "DocumentMoniker": "C:\\Users\\jalong2\\OneDrive - New Balance Athletics, Inc\\Desktop\\ToDoApp\\ToDoAppApi\\Services\\IToDoService.cs",
+              "RelativeDocumentMoniker": "Services\\IToDoService.cs",
+              "ToolTip": "C:\\Users\\jalong2\\OneDrive - New Balance Athletics, Inc\\Desktop\\ToDoApp\\ToDoAppApi\\Services\\IToDoService.cs",
+              "RelativeToolTip": "Services\\IToDoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T02:39:04.807Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

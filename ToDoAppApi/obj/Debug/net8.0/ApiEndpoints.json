@@ -1,0 +1,65 @@
+[
+  {
+    "ContainingType": "ToDoAppApi.Controllers.ToDoController",
+    "Method": "GetAll",
+    "RelativePath": "ToDo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ToDoAppApi.Controllers.ToDoController",
+    "Method": "AddItemAsync",
+    "RelativePath": "ToDo",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "newitem",
+        "Type": "ToDoAppApi.Models.ToDoItem",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ToDoAppApi.Controllers.ToDoController",
+    "Method": "DeleteAsync",
+    "RelativePath": "ToDo/{deleteItemId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "deleteItemId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ToDoAppApi.Controllers.ToDoController",
+    "Method": "UpdateAsync",
+    "RelativePath": "ToDo/{updateItemId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updateItemId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "updatedItem",
+        "Type": "ToDoAppApi.Models.ToDoItem",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
